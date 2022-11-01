@@ -1,0 +1,10 @@
+.users-list {
+    list-style: none;
+    padding: 0;
+}
+
+.users-list__fallback {
+    text-align: center;
+    color: #01426a;
+    font-size: 20px;
+}
